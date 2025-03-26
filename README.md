@@ -1,8 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=0066FF&background=00000000&center=true&vCenter=true&width=700&height=100&duration=6000&lines=Welcome+to+my+Professional+Space+👨‍💻;Yair+here,+DevOps+Engineer;Building+Reliable+Infrastructure" />
 </h1>
-<p align="center">
-    <img width="600" src="https://raw.githubusercontent.com/yair-create/yair-create/main/devops.avif" alt="DevOps CI/CD Pipeline">
+
+</p>
+src="https://raw.githubusercontent.com/yair-create/yair-create/main/devops.avif" alt="DevOps CI/CD Pipeline">
 </p>
 <h3 align="center">👨‍💻 Junior DevOps Engineer</h3>
 
