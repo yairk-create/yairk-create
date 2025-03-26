@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=0066FF&background=00000000&center=true&vCenter=true&width=700&height=100&duration=6000&lines=Welcome+to+my+Professional+Space+👨‍💻;Yair+here,+DevOps+Engineer;Building+Reliable+Infrastructure" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=63DAFF&random=true&width=450&lines=Welcome+to+my+Professional+Space+👨‍💻;Yair+here,+DevOps+Engineer;Building+Reliable+Infrastructure" />
 </h1>
 <p align="center">
     <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker">
