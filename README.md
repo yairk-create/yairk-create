@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=0066FF&background=00000000&center=true&vCenter=true&width=700&height=100&duration=6000&lines=Welcome+to+my+Professional+Space+👨‍💻;Yair+here,+DevOps+Engineer;Building+Reliable+Infrastructure" />
 </h1>
 <p align="center">
-    <img width="600" src="https://i.imgur.com/qs9EiPU.png" alt="DevOps CI/CD Pipeline">
+    <img width="600" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="DevOps Technologies">
+    <img width="600" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="DevOps Technologies">
 </p>
 <h3 align="center">👨‍💻 Junior DevOps Engineer</h3>
 <p align="center">
