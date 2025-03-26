@@ -48,7 +48,7 @@
 ### 🌎 Let's Connect!
 
 - 💼 **[LinkedIn](https://linkedin.com/in/yair-kochavi-64314a172)**  
-- 📂 **[GitHub]([https://github.com/yair-create](https://github.com/yairk-create))**  
+- 📂 **[GitHub](https://github.com/yairk-create)**  
 
 ---
 
