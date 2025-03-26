@@ -29,7 +29,7 @@
 
 🐳 Containers & Orchestration: Docker, Kubernetes, Helm
 
-☁ Cloud Providers: AWS, Azure, GCP
+☁ Cloud Providers: AWS, Azure,
 
 🛠 Automation & IaC: Terraform, Ansible
 
