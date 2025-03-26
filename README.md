@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=FF1493&background=00000000&center=true&vCenter=true&width=700&height=100&duration=3000&lines=Hello,+Upper+East+Siders!+👑;Yair+is+here,+looking+fabulous!;XOXO,+Gossip+Girl!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=0066FF&background=00000000&center=true&vCenter=true&width=700&height=100&duration=3000&lines=Hello,+Upper+East+Siders!+👑;Yair+is+here,+looking+fabulous!;XOXO,+Gossip+Girl!" />
 </h1>
 </h1><h3 align="center">👨‍💻 Junior DevOps Engineer</h3>
 <p align="center">
