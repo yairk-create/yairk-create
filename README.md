@@ -10,13 +10,14 @@
 </p>
 ---
 
-### 💖 Who am I?
-
-  💻 **Junior DevOps **—Automating like Chuck Bass rules Manhattan
-  🌍 **Climbing the DevOps ladder** with Kubernetes, Terraform, AWS, and CI/CD
-  ⚡ **Making infrastructure as fabulous as the MET Gala**—because why settle for basic?
+### 💪 Who am I?
+💻 Junior DevOps Engineer—Automating infrastructure with precision and efficiency
+🌍 Climbing the DevOps ladder with Kubernetes, Terraform, AWS, and CI/CD
+⚡ Building robust, scalable systems—because excellence is the only standard
 
 ---
+
+
 
 ### 🛠 My DevOps Toolkit
 
