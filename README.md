@@ -25,12 +25,17 @@
 
 ### 🛠 My DevOps Toolkit
 
-🏗️ **Infrastructure & OS**: Linux, Bash, Windows Server 
-🐳 **Containers & Orchestration**: Docker, Kubernetes, Helm 
-☁ **Cloud Providers**: AWS, Azure, GCP 
-🛠 **Automation & IaC**: Terraform, Ansible 
-🚀 **CI/CD & Version Control**: GitHub Actions, Jenkins, GitLab CI/CD 
-📡 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack 
+🏗️ Infrastructure: Linux, Bash, Windows Server
+
+🐳 Containers & Orchestration: Docker, Kubernetes, Helm
+
+☁ Cloud Providers: AWS, Azure, GCP
+
+🛠 Automation & IaC: Terraform, Ansible
+
+🚀 CI/CD & Version Control: GitHub Actions, Jenkins, GitLab CI/CD
+
+📡 Monitoring & Logging: Prometheus, Grafana, ELK Stack
 
 ---
 
