@@ -25,7 +25,7 @@
 
 ### 🛠 My DevOps Toolkit
 
-💅 **Infrastructure & OS**: Linux, Bash, Windows Server 
+🏗️ **Infrastructure & OS**: Linux, Bash, Windows Server 
 🐳 **Containers & Orchestration**: Docker, Kubernetes, Helm 
 ☁ **Cloud Providers**: AWS, Azure, GCP 
 🛠 **Automation & IaC**: Terraform, Ansible 
