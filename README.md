@@ -2,15 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=FF1493&background=00000000&center=true&vCenter=true&width=700&height=100&duration=3000&lines=Hello,+Upper+East+Siders!+👑;Yair+is+here,+looking+fabulous!;XOXO,+Gossip+Girl!" />
 </h1>
 </h1><h3 align="center">👨‍💻 Junior DevOps Engineer</h3>
-
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yair-create&count_bg=%23FF69B4&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Profile Views" />
 </p>
-
 <p align="center">
-  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg1eDUwNGdxemhncXU1eG1nOG9kNzV1YjByc2MyNWkzeXkybzRlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZUEaJDyaHNP5m/giphy.gif">
+  <img width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0mKzT7M4xJzWDJJfF7Omcw.png" alt="Classic DevOps Infinity Loop">
 </p>
-
 ---
 
 ### 💖 Who am I?
