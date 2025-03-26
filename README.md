@@ -2,12 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=50&color=0066FF&background=00000000&center=true&vCenter=true&width=700&height=100&duration=6000&lines=Welcome+to+my+Professional+Space+👨‍💻;Yair+here,+DevOps+Engineer;Building+Reliable+Infrastructure" />
 </h1>
 <p align="center">
-    <img width="600" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="DevOps Technologies">
-    <img width="600" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="DevOps Technologies">
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker">
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes">
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins">
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub Actions">
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab CI">
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD">
 </p>
-<h3 align="center">👨‍💻 Junior DevOps Engineer</h3>
+<h3 align="center">👨‍💻 Junior DevOps Engineer | CI/CD Specialist</h3>
 <p align="center">
-  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yair-create&count_bg=%230066FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Profile Views" />
+</p>
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/yair-create/yair-create/main/devops.avif" alt="DevOps CI/CD Pipeline">
 </p>
 
 ---
