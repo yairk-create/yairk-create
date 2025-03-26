@@ -5,12 +5,7 @@
     <img width="600" src="https://raw.githubusercontent.com/yair-create/yair-create/main/devops.avif" alt="DevOps CI/CD Pipeline">
 </p>
 <h3 align="center">👨‍💻 Junior DevOps Engineer</h3>
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yair-create&count_bg=%230066FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Profile Views" />
-</p>
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/yair-create/yair-create/main/devops.avif" alt="DevOps CI/CD Pipeline">
-</p>
+
 ---
 
 ### 💪 Who am I?
