@@ -38,15 +38,6 @@
 
 ---
 
-### 👑 GitHub Royalty Board
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yair-create&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&icon_color=FF69B4&border_color=FF1493&hide_border=false&card_width=500&border_radius=6" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yair-create&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=false&border_color=FF1493&radius=4" alt="GitHub Activity Graph" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=yair-create&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Achievements" />
-</p>
 
 ---
 
