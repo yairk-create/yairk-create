@@ -8,7 +8,7 @@
     <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab CI">
     <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD">
 </p>
-<h3 align="center">👨‍💻 Junior DevOps Engineer | CI/CD Specialist</h3>
+<h3 align="center">👨‍💻 Junior DevOps Engineer </h3>
 
 
 
